@@ -1,0 +1,136 @@
+﻿body{
+    font-family: Georgia, "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif,'Segoe UI';
+    font-size:14px;
+}
+.footer {
+    color: #777;
+    padding: 30px 0;
+    border-top: 1px solid #e5e5e5;
+    margin-top: 70px;
+}
+
+.highlight{
+    color:royalblue;
+    font-weight:600;
+}
+
+.bs-callout {
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #eee;
+    border-left-width: 5px;
+    border-radius: 3px;
+}
+
+.bs-callout+.bs-callout {
+    margin-top: -5px;
+}
+.bs-callout-warning {
+    border-left-color: #aa6708;
+}
+
+.bs-callout-info {
+    border-left-color: #1b809e;
+}
+
+.bs-callout h4 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.h4, h4 {
+    font-size: 18px;
+}
+
+.bs-callout-warning h4 {
+    color: #aa6708;
+}
+
+.bs-callout-info h4 {
+    color: #1b809e;
+}
+
+.icon-div {
+    margin: 0 -10px 20px;
+    overflow: hidden;
+}
+
+.icon-list {
+    padding-left: 0;
+    list-style: none;
+}
+
+.icon-div li {
+    float: left;
+    width: 20%;
+    height: 115px;
+    padding: 10px;
+    font-size: 14px;
+    line-height: 1.4;
+    text-align: center;
+    background-color: #f9f9f9;
+    border: 1px solid #fff;
+    display: list-item;
+}
+
+.icon-div .icon {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 36px;
+}
+
+.icon {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+
+.icon-label {
+    display: block;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.multi-line-label {
+    margin-bottom:10px;
+}
+
+.year{
+    font-size:1.5em;
+    color:blue;
+    text-decoration:underline;
+}
+
+.short_name{
+    font-weight:600;
+    color:darkblue;
+}
+
+.download{
+    font-weight:600;
+    color:blue;
+    text-decoration: underline;
+}
+
+
+.ccfa{
+    font-weight:600;
+    color:red;
+    text-decoration:none;
+}
+
+.ccfb{
+    font-weight:600;
+    color:mediumvioletred;
+    text-decoration:none;    
+}
+
+.chinese{
+    font-weight:600;
+    color: #FF3333;
+    text-decoration:none;    
+}
